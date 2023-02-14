@@ -123,6 +123,10 @@ button {
     height: 350px;
 }
 
+.allpack a {
+    font-size: larger;
+    font-weight: 400px;
+}
 .restyleimg {
     width: 500px;
     height: 350px;
